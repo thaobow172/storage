@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "version": "v1",
-    "title": "bow",
+    "title": "FlexTime Web Service",
     "description": ".NET web service hosted in Azure for use by the FlexTime application.  Please note:  The token should be specified in the 'api_key' input field.",
     "termsOfService": "XXXXXXXX"
   },
